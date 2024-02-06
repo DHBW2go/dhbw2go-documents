@@ -167,7 +167,7 @@ The User interfaces that will be implented are:
 (n/a)
 
 #### 3.9.3 Software Interfaces
-The native app will be available on iOS and Android Plattforms.
+The native app will be available on iOS and Android Platforms.
 
 #### 3.9.4 Communication Interfaces
 tbd
