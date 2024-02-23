@@ -70,10 +70,13 @@ The following chapters provide an overview of DHBW2go with vision and Overall Us
 
 ### 2.1 Vision
 
+Our vision is to create a mobile application tailored to the needs of students at the Baden-Württemberg Cooperative State University (DHBW). By combining state-of-the-art technologies with an intuitive, user-friendly interface, we aim to revolutionize students' daily academic routines and enhance their organization and efficiency.
+
+The software will not just be another app; it will serve as a comprehensive solution to help students better manage and structure their university tasks and obligations. This includes displaying class schedules, managing exam grades, and integrating other relevant academic information. However, our vision extends beyond mere functionality – we aim to build a platform that simplifies and enriches academic life at DHBW.
 
 ### 2.2 Use Case Diagram
 
-
+![Use Case Diagram](https://github.com/DHBW2go/dhbw2go-documents/blob/main/Diagramme/UseCase_Diagramm.png?raw=true)
 
 ### 2.3 Technology Stack
 The technology we use is:
@@ -85,7 +88,7 @@ Frontend:
 - React Native
 
 IDE:
-- IntelliJ
+- IntelliJ IDEA Ultimate
 
 Project Management:
 - GitHub Projects
