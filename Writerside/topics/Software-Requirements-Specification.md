@@ -79,7 +79,7 @@ The following chapters provide an overview of DHBW2go with vision and Overall Us
 The technology we use is:
 
 Backend:
-- ExpressJS
+- Spring Boot
 
 Frontend:
 - React Native
