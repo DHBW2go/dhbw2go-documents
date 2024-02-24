@@ -102,12 +102,39 @@ Testing:
 ## 3. Specific Requirements
 
 ### 3.1 Functionality
-This section will explain the different use cases, you could see in the Use Case Diagram, and their functionality.  
+This section will explain the different use cases, you could see in the Use Case Diagram, and their functionality.
 
+We want to implement the following features by the time the "Studienarbeit" is submitted:
+- Timetable display in the form of a calendar
+- Overview of grades
+- Mensa menu
+- To-Do List
 
-#### 3.1.1 Use-Case
-Specify use-cases per subsection.
+Further optional features:
+- Document storage
+- Chatroom
+- Public transport information
 
+#### 3.1.1 Timetable display in the form of a calendar
+The calendar feature is one of the central features of our application. The calendar should display the user's lecture schedule and also be able to filter the student's elective modules. This is intended to support the user in planning their everyday life and provide a quick overview of upcoming lectures.
+
+#### 3.1.2 Overview of grades
+The grade overview is also a core element of the application. It is designed to give students a quick overview of their performance.
+
+#### 3.1.3 Mensa menu
+The overview of the canteen offer is intended to provide further support for students in their everyday lives so that they have quick access to the menu within the application.
+
+#### 3.1.4 To-Do List
+The to-do list is an important element within the app when it comes to organizing students' everyday lives. The feature is intended to provide students with a place to collect tasks in the context of their studies.
+
+#### 3.1.5 Document storage (optional)
+The document repository is intended to offer all students who use the application the opportunity to exchange documents with each other and thus share their knowledge.
+
+#### 3.1.6 Chatroom (optional)
+The chatroom is intended to offer students a platform for mutual exchange. The chatroom is a good way for students to organize themselves outside of lectures, especially for group work during their studies.
+
+#### 3.1.7 Public transport information (optional)
+The public transport information is intended to provide students with a quick overview of departure times at the DHBW.
 
 ### 3.2 Usability
 We plan on designing the user interface as intuitive and self-explanatory as possible to make the user feel as 
